@@ -1,6 +1,6 @@
 # Hi 👋, I'm Duka
 
-### A Experienced Developer but New to AI
+### A Experienced Project Manager but New to AI...
 
 - 🔭 I'm currently working on **Python,  Java,  Html,  Go,  Script， Web FrameWorks,  Flask,  Django,  Anaconda， MySQL, Redis**
 
