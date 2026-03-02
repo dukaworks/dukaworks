@@ -1,19 +1,49 @@
-# Hi 👋, I'm Duka
 
-### A Experienced Project Manager but New to AI...
+# Hi 👋, I'm Duka - An AI Explorer & Builder
 
-- 🔭 I'm currently working on **Python,  Java,  Html,  Go,  Script， Web FrameWorks,  Flask,  Django,  Anaconda， MySQL, Redis**
+<p align="left">
+  <a href="https://github.com/dukaworks">
+    <img src="https://github-readme-stats.vercel.app/api?username=dukaworks&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Duka's GitHub stats" />
+  </a>
+  <a href="https://github.com/dukaworks">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukaworks&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
 
-- 🌱 I'm currently learning **TypeScript, FastAPI,  PostgreSQL,  LLM**
+---
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
+### 👨‍💻 About Me
 
-- 🤝 I'm looking for help with **Leanring AI, Workflow, MCP,  Agent  **
+I'm a seasoned Project Manager, now channeling my expertise into the exciting world of Artificial Intelligence. My passion lies in bridging the gap between innovative ideas and tangible, high-impact products. Currently, I'm diving deep into Large Language Models (LLMs) and building tools that make AI more accessible and efficient.
 
-- 💬 Ask me about **Web Development, Python, Framework such as Flask and Django**
+- 🔭 **I'm currently building:** Tools and platforms for AI model evaluation and routing.
+- 🌱 **I'm currently learning:** Advanced concepts in LLM, Agentic Workflows, and MLOps.
+- 👯 **I'm looking to collaborate on:** Open-source AI projects, especially those related to model tooling and evaluation.
+- 📫 **How to reach me:** [dkchan@gmail.com](mailto:dkchan@gmail.com)
 
-- 📫 How to reach me **dkchan@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+### 🚀 My Projects
 
+Here are some of the projects I'm passionate about:
+
+| Project | Description | Stars |
+|---|---|---|
+| **[ModelCompass (魔盘)](https://github.com/dukaworks/modelcompass)** | 🧭 An AI model evaluation and intelligent selection platform. Think of it as a compass for navigating the vast universe of AI models. | ![GitHub Repo stars for modelcompass](https://img.shields.io/github/stars/dukaworks/modelcompass?style=social) |
+| **[OpenModels (OMX)](https://github.com/dukaworks/openmodels)** | 🤖 An intelligent model routing gateway based on LiteLLM. It acts as the API gateway layer for ModelCompass, enabling smart model recommendations. | ![GitHub Repo stars for openmodels](https://img.shields.io/github/stars/dukaworks/openmodels?style=social) |
+
+---
+
+### 🛠️ Languages and Tools
+
+Here are some of the technologies I work with:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,react,vue" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,postman" alt="DevOps & Tools" />
+</p>
+
+---
+<p align="center"><i>This README was lovingly crafted with the help of my AI assistant, 小龙虾 🦞.</i></p>
