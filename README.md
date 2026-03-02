@@ -3,10 +3,10 @@
 
 <p align="left">
   <a href="https://github.com/dukaworks">
-    <img src="https://github-readme-stats.vercel.app/api?username=dukaworks&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;count_private=true" alt="Duka's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dukaworks&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;count_private=true&amp;cache_buster=12345678" alt="Duka's GitHub stats" />
   </a>
   <a href="https://github.com/dukaworks">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukaworks&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukaworks&amp;layout=compact&amp;theme=dracula&amp;hide_border=true&amp;cache_buster=12345678" alt="Top Langs" />
   </a>
 </p>
 
